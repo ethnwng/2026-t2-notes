@@ -1,0 +1,396 @@
+{
+  "main": {
+    "id": "922f0705cbcf6c13",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb5d3b8ea0ab1121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68fbe3069f57baef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH461/lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 1"
+            }
+          },
+          {
+            "id": "9b88e63934da14ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH317/lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 1"
+            }
+          },
+          {
+            "id": "2e8e784a8cbd84a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH317/lecture 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 2"
+            }
+          },
+          {
+            "id": "0573a93b20a7d626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH317/lecture 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 3"
+            }
+          },
+          {
+            "id": "139f8d059134d74d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH303/lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 1"
+            }
+          },
+          {
+            "id": "afdbd6bde829013d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH303/lecture 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 2"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ebb8f3ec6398b5ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c46e7f213ce6284a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH303/MATH303.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH303"
+            }
+          },
+          {
+            "id": "8f9a5b00fa187ca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC406/CPSC406.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CPSC406"
+            }
+          },
+          {
+            "id": "e4df4e8159e26140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC406/lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 1"
+            }
+          },
+          {
+            "id": "15dc50bdd4423c8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC406/lecture 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 2"
+            }
+          },
+          {
+            "id": "8ef837fa6c2f3799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH317/MATH317.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH317"
+            }
+          },
+          {
+            "id": "20c738f46a34a409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH461/MATH461.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH461"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6785b918dd5c7176",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dd1cb348603ccf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5dabe0f4d2edf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a7a38920cb8c426",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe1f548994a26e5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "08ea3d7e1750a609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da3b84b1e9d3796b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392.5062494277954,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3734b0a1c4beeb24",
+    "type": "split",
+    "children": [
+      {
+        "id": "20be55eedfe27868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d509eaf1b23ffc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KIN300/lecture 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lecture 3"
+            }
+          },
+          {
+            "id": "a88aae3039880661",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ECON310/Chapter 4 Consumer and Producer Surplus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 4 Consumer and Producer Surplus"
+            }
+          },
+          {
+            "id": "718deb715baa186e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0ce236ec284838d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ECON310/Chapter 4 Consumer and Producer Surplus.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 4 Consumer and Producer Surplus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0573a93b20a7d626",
+  "lastOpenFiles": [
+    "soldier.png",
+    "CPSC406/lecture 2.md",
+    "MATH317/lecture 3.md",
+    "MATH317/lecture 2.md",
+    "CPSC406/lecture 1.md",
+    "CPSC406/notebooks/least-squares.ipynb",
+    "CPSC406/notebooks",
+    "MATH317/lecture 1.md",
+    "MATH461/lecture 1.md",
+    "MATH303/lecture 1.md",
+    "MATH303/lecture 2.md",
+    "CPSC406/CPSC406.md",
+    "MATH303/Untitled.md",
+    "MATH461/MATH461.md",
+    "MATH461",
+    "MATH317/MATH317.md",
+    "MATH303/MATH303.md",
+    "MATH317",
+    "CPSC406",
+    "STAT306/Labs/practice4.qmd",
+    "STAT306/Labs/Dexterity.txt",
+    "STAT306/Labs/practice4_sol.qmd",
+    "STAT306/Labs/lego.csv",
+    "STAT306/lecture 13.md",
+    "KIN300/lecture 26.md",
+    "KIN300/lecture 25.md",
+    "KIN300/lecture 24.md",
+    "KIN300/lecture 23.md",
+    "KIN300/lecture 22.md",
+    "KIN300/lecture 21.md",
+    "KIN300/lecture 20.md",
+    "KIN300/lecture 19.md",
+    "KIN300/lecture 18.md",
+    "STAT306/lecture 12.md",
+    "STAT306/lecture 15.md",
+    "MATH360/python_lectures/DATA/vancouver_weather.csv",
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/GroupAssignment2_files/GroupAssignment2_9_0.png",
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/GroupAssignment2_files/GroupAssignment2_14_0.png",
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/GroupAssignment2_files/GroupAssignment2_10_0.png",
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/daily_kdes_by_location.png",
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/combined_kde_plots_concise.png",
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Weather Variable Distributions.png",
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/KDEs for T,P,H.png",
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Distribution of Annual Income.png",
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Daily Customer KDEs.png",
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Cumulative Annual Income with Price & Cost Uncertainty.png"
+  ]
+}
