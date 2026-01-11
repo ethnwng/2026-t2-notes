@@ -1,4 +1,3 @@
-# 2026-t2-notes
-qookd
+# qookd 
 
 ![alt text](soldier.png)
