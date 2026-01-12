@@ -6,6 +6,7 @@
       {
         "id": "bb5d3b8ea0ab1121",
         "type": "tabs",
+        "dimension": 52.06653225806451,
         "children": [
           {
             "id": "68fbe3069f57baef",
@@ -64,17 +65,17 @@
             }
           },
           {
-            "id": "139f8d059134d74d",
+            "id": "7228a5275dcd78c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH303/lecture 1.md",
+                "file": "MATH317/lecture 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 1"
+              "title": "lecture 4"
             }
           },
           {
@@ -92,12 +93,41 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "ebb8f3ec6398b5ed",
         "type": "tabs",
+        "dimension": 47.93346774193548,
         "children": [
+          {
+            "id": "139f8d059134d74d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH303/lecture 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 3"
+            }
+          },
+          {
+            "id": "f5feeff26cbe6a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH303/lecture 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 4"
+            }
+          },
           {
             "id": "c46e7f213ce6284a",
             "type": "leaf",
@@ -155,6 +185,20 @@
             }
           },
           {
+            "id": "06d4cf53e9c3a2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC406/lecture 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 3"
+            }
+          },
+          {
             "id": "8ef837fa6c2f3799",
             "type": "leaf",
             "state": {
@@ -183,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -344,21 +388,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0573a93b20a7d626",
+  "active": "7228a5275dcd78c4",
   "lastOpenFiles": [
-    "soldier.png",
-    "CPSC406/lecture 2.md",
+    "MATH303/lecture 4.md",
+    "MATH317/lecture 4.md",
     "MATH317/lecture 3.md",
+    "MATH303/lecture 2.md",
+    "MATH303/lecture 3.md",
+    "CPSC406/lecture 3.md",
+    "CPSC406/notebooks/l3-notes.ipynb",
+    "CPSC406/lecture 2.md",
+    "CPSC406/notebooks/homework/hw0.ipynb",
+    "CPSC406/notebooks/homework",
+    "MATH303/lecture 1.md",
+    "MATH461/lecture 1.md",
+    "MATH317/lecture 1.md",
+    "soldier.png",
     "MATH317/lecture 2.md",
     "CPSC406/lecture 1.md",
     "CPSC406/notebooks/least-squares.ipynb",
     "CPSC406/notebooks",
-    "MATH317/lecture 1.md",
-    "MATH461/lecture 1.md",
-    "MATH303/lecture 1.md",
-    "MATH303/lecture 2.md",
     "CPSC406/CPSC406.md",
-    "MATH303/Untitled.md",
     "MATH461/MATH461.md",
     "MATH461",
     "MATH317/MATH317.md",
@@ -367,8 +417,6 @@
     "CPSC406",
     "STAT306/Labs/practice4.qmd",
     "STAT306/Labs/Dexterity.txt",
-    "STAT306/Labs/practice4_sol.qmd",
-    "STAT306/Labs/lego.csv",
     "STAT306/lecture 13.md",
     "KIN300/lecture 26.md",
     "KIN300/lecture 25.md",
@@ -379,9 +427,6 @@
     "KIN300/lecture 20.md",
     "KIN300/lecture 19.md",
     "KIN300/lecture 18.md",
-    "STAT306/lecture 12.md",
-    "STAT306/lecture 15.md",
-    "MATH360/python_lectures/DATA/vancouver_weather.csv",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/GroupAssignment2_files/GroupAssignment2_9_0.png",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/GroupAssignment2_files/GroupAssignment2_14_0.png",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/GroupAssignment2_files/GroupAssignment2_10_0.png",
@@ -390,7 +435,6 @@
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Weather Variable Distributions.png",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/KDEs for T,P,H.png",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Distribution of Annual Income.png",
-    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Daily Customer KDEs.png",
-    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Cumulative Annual Income with Price & Cost Uncertainty.png"
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Daily Customer KDEs.png"
   ]
 }
