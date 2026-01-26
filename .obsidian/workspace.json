@@ -6,7 +6,7 @@
       {
         "id": "bb5d3b8ea0ab1121",
         "type": "tabs",
-        "dimension": 52.06653225806451,
+        "dimension": 46.01814516129033,
         "children": [
           {
             "id": "68fbe3069f57baef",
@@ -79,113 +79,77 @@
             }
           },
           {
+            "id": "e67397d6db1ec273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH303/lecture 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 5"
+            }
+          },
+          {
+            "id": "58e740e1f8e76de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH303/lecture 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 6"
+            }
+          },
+          {
+            "id": "2559f8be4c05f3a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH303/lecture 6.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 6"
+            }
+          },
+          {
+            "id": "e19f841ac30c2006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH303/lecture 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 8"
+            }
+          },
+          {
+            "id": "e73dcc33b7e1813d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH303/lecture 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 9"
+            }
+          },
+          {
             "id": "afdbd6bde829013d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH303/lecture 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lecture 2"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "ebb8f3ec6398b5ed",
-        "type": "tabs",
-        "dimension": 47.93346774193548,
-        "children": [
-          {
-            "id": "139f8d059134d74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH303/lecture 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lecture 3"
-            }
-          },
-          {
-            "id": "f5feeff26cbe6a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH303/lecture 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lecture 4"
-            }
-          },
-          {
-            "id": "c46e7f213ce6284a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH303/MATH303.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH303"
-            }
-          },
-          {
-            "id": "8f9a5b00fa187ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPSC406/CPSC406.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPSC406"
-            }
-          },
-          {
-            "id": "e4df4e8159e26140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPSC406/lecture 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lecture 1"
-            }
-          },
-          {
-            "id": "15dc50bdd4423c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPSC406/lecture 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lecture 2"
-            }
-          },
-          {
-            "id": "06d4cf53e9c3a2db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -199,35 +163,254 @@
             }
           },
           {
-            "id": "8ef837fa6c2f3799",
+            "id": "ece48b1793170cd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH317/MATH317.md",
+                "file": "MATH303/lecture 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH317"
+              "title": "lecture 4"
             }
           },
           {
-            "id": "20c738f46a34a409",
+            "id": "8c41d961b3aa1378",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH461/MATH461.md",
+                "file": "MATH317/lecture 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH461"
+              "title": "lecture 5"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
+      },
+      {
+        "id": "d6475904699e435c",
+        "type": "split",
+        "dimension": 53.98185483870967,
+        "children": [
+          {
+            "id": "ebb8f3ec6398b5ed",
+            "type": "tabs",
+            "dimension": 60.19900497512438,
+            "children": [
+              {
+                "id": "139f8d059134d74d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MATH303/lecture 3.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture 3"
+                }
+              },
+              {
+                "id": "f5feeff26cbe6a50",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MATH303/lecture 4.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture 4"
+                }
+              },
+              {
+                "id": "c46e7f213ce6284a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MATH303/MATH303.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MATH303"
+                }
+              },
+              {
+                "id": "8f9a5b00fa187ca9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CPSC406/CPSC406.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "CPSC406"
+                }
+              },
+              {
+                "id": "e4df4e8159e26140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CPSC406/lecture 1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture 1"
+                }
+              },
+              {
+                "id": "1d08e27bfa7c960b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CPSC406/lecture 5.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture 5"
+                }
+              },
+              {
+                "id": "13a57a722687ecf3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CPSC406/lecture 6.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture 6"
+                }
+              },
+              {
+                "id": "3b212a1e1d910945",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CPSC406/lecture 7.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture 7"
+                }
+              },
+              {
+                "id": "15dc50bdd4423c8c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CPSC406/lecture 2.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture 2"
+                }
+              },
+              {
+                "id": "06d4cf53e9c3a2db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CPSC406/lecture 3.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture 3"
+                }
+              },
+              {
+                "id": "8ef837fa6c2f3799",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MATH317/MATH317.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MATH317"
+                }
+              },
+              {
+                "id": "20c738f46a34a409",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MATH461/MATH461.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MATH461"
+                }
+              }
+            ],
+            "currentTab": 7
+          },
+          {
+            "id": "bcbddb83b49bb517",
+            "type": "tabs",
+            "dimension": 39.800995024875625,
+            "children": [
+              {
+                "id": "eab3d2a61f68d2a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MATH317/lecture 5.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture 5"
+                }
+              },
+              {
+                "id": "2c39650ed5be475f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MATH317/lecture 4.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lecture 4"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -280,8 +463,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "08ea3d7e1750a609",
@@ -388,53 +570,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7228a5275dcd78c4",
+  "active": "e73dcc33b7e1813d",
   "lastOpenFiles": [
-    "MATH303/lecture 4.md",
+    "MATH303/lecture 8.md",
+    "MATH303/lecture 9.md",
+    "CPSC406/lecture 7.md",
+    "CPSC406/lecture 6.md",
+    "MATH317/lecture 5.md",
     "MATH317/lecture 4.md",
-    "MATH317/lecture 3.md",
-    "MATH303/lecture 2.md",
-    "MATH303/lecture 3.md",
+    "MATH303/lecture 6.md",
+    "CPSC406/lecture 5.md",
+    "MATH303/lecture 7.md",
+    "MATH303/lecture 5.md",
+    "MATH303/attachments/Pasted image 20260122233736.png",
+    "MATH303/attachments/Pasted image 20260122233550.png",
+    "MATH303/attachments",
+    "MATH303/lecture 4.md",
+    "CPSC406/notebooks/homework/mlo_N2O_All.dat",
+    "MATH317/lecture 6.md",
+    "CPSC406/notebooks/homework/hw1.ipynb",
+    "CPSC406/notebooks/homework/hw1(1).ipynb",
+    "CPSC406/notebooks/regularized-least-squares.ipynb",
     "CPSC406/lecture 3.md",
-    "CPSC406/notebooks/l3-notes.ipynb",
+    "MATH317/lecture 3.md",
+    "MATH317/lecture 2.md",
+    "MATH317/lecture 1.md",
+    "CPSC406/lecture 1.md",
+    "CPSC406/notebooks/l5-notes.ipynb",
+    "MATH461/notebooks/Unit1_Lecture2.ipynb",
+    "CPSC406/lecture 4.md",
+    "CPSC406/notebooks/l4-notes.ipynb",
+    "MATH303/lecture 2.md",
+    "MATH461/notebooks/Unit1_Lecture1.ipynb",
+    "MATH461/notebooks",
+    "MATH303/lecture 3.md",
     "CPSC406/lecture 2.md",
-    "CPSC406/notebooks/homework/hw0.ipynb",
-    "CPSC406/notebooks/homework",
     "MATH303/lecture 1.md",
     "MATH461/lecture 1.md",
-    "MATH317/lecture 1.md",
     "soldier.png",
-    "MATH317/lecture 2.md",
-    "CPSC406/lecture 1.md",
-    "CPSC406/notebooks/least-squares.ipynb",
-    "CPSC406/notebooks",
     "CPSC406/CPSC406.md",
     "MATH461/MATH461.md",
-    "MATH461",
     "MATH317/MATH317.md",
-    "MATH303/MATH303.md",
-    "MATH317",
-    "CPSC406",
-    "STAT306/Labs/practice4.qmd",
-    "STAT306/Labs/Dexterity.txt",
-    "STAT306/lecture 13.md",
-    "KIN300/lecture 26.md",
-    "KIN300/lecture 25.md",
-    "KIN300/lecture 24.md",
-    "KIN300/lecture 23.md",
-    "KIN300/lecture 22.md",
-    "KIN300/lecture 21.md",
-    "KIN300/lecture 20.md",
-    "KIN300/lecture 19.md",
-    "KIN300/lecture 18.md",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/GroupAssignment2_files/GroupAssignment2_9_0.png",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/GroupAssignment2_files/GroupAssignment2_14_0.png",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/GroupAssignment2_files/GroupAssignment2_10_0.png",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/daily_kdes_by_location.png",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/combined_kde_plots_concise.png",
     "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Weather Variable Distributions.png",
-    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/KDEs for T,P,H.png",
-    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Distribution of Annual Income.png",
-    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/Daily Customer KDEs.png"
+    "MATH360/Homework/Modelling_Assignments/math-360-assignment2/KDEs for T,P,H.png"
   ]
 }

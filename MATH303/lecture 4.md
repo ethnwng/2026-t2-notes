@@ -27,7 +27,7 @@ Let $(X_{n)})_{n\geq 0}$ be a Markov Chain on a possibly infinite state space $S
 $$
 \mathbb{P}(X_{n+m} = y | X_{0}=x) = \sum_{z\in S} \mathbb{P}(X_{n}=y | X_{0}=z)\mathbb{P}(X_{m} =z | X_{0}=z) 
 $$
-*in english:* it states that the probability of going from state $i$ to $j$ in $m+n$ steps is equal to the sum of the probability of going from state $i$ to state $k$ in $m$ steps and then from state $k$ to state $j$ in $n$ steps.
+*in english:* it states that the probability of going from state $i$ to $j$ in $m+n$ steps is equal to the sum of the probability of going from state $i$ to state $k$ in $m$ steps and then from state $k$ to state $j$ in $n$ steps.                                                                                                 
 - able to use this to combine previous steps together to get an overall probability for a sequence.
 
 *prf:* handwrtn
