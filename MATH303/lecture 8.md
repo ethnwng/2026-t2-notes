@@ -1,13 +1,17 @@
 [[MATH303]]
 
-*Theorem:* The SRW on $\mathbb{Z}^{2}$ is recurrent. 
-*pf:* handrwnt
+*Observation:*
+- in the context of simple random walks in higher dimensions
 
-*Theorem:* For $d\geq 3$, the SRW on $\mathbb{Z}^d$ is transient. 
-*non examinable pf:* handwrnt
+Suppose we know that a simple random walk in $\mathbb{Z}^d$ is transient (we didnt do the proof). What can we say about a simple random walk in $\mathbb{Z}^{d+1}$? Is it also transient?
 
-For these proofs we only have to show that one point is transient or recurrent because the entire system is a *communicative class*. 
+If we *ignore* the $d+1$ entry, meaning we do a *random walk* (not simple cause it could not move) on $\mathbb{Z}^d$ 
+- So either it moves in $\mathbb{Z}^d$ or it "stays still"
+- "staying still" means that its moving in our *ignored* $d+1$ direction. 
+The probability that it stays still is $\frac{1}{d+1}$. *Call this a "Lazy Walk"*
 
-*recall:* if a state $A$ is *recurrent* and is in a communicative class then every other state that it communicates is also *recurrent*. If its transient then vice versa
-
-
+Therefore
+$$
+\underbrace{ \mathbb{E^*}_{(0,0)} N_{0,0} }_{ \text{Lazy Walk} } = \frac{1}{1-\frac{1}{d+1}}U \underbrace{ \mathbb{E}_{0,0} N_{0,0} }_{ \text{Not lazy} }
+$$
+The lazy and 'normal' walk are both transient.

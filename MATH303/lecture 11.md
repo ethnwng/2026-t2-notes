@@ -1,42 +1,51 @@
 [[MATH303]]
+(non-examinable for mt1)
+##### Time Reversal 
 
-continuation from last on **limiting probabilities**
-*proposition 2*
-Let $X_{n}$ be a irreducible Markov chain and $\lambda$ be an invariant function with $\lambda_{j} \geq 0 \forall j$ and $\lambda_{n}=1$
+Suppose we have a fixed time $N$ and a Markov Chain $(X_{n})_{0\leq n\leq N}$ What can we say about $Y_{n}=X_{N-n}$
+- Markov property("past and future are independent given the present") is symmetric under the time reversal
+	- The *Convergence Theorem* complicates things in time reversal
+		- convergence theorem assumes we start from a large number of distributions and converge to some *stable* one $\pi$
+		- time reversal says we start at the converged solution and spread out?
+	- At start: lots of information about the initial state (low entropy)
+	- At future: little information (high entropy)
 
-then
+*Theorem:* Suppose $(X_{n})_{0\leq n\leq N}$ is a markov chain with invariant distribution $\pi$ and initial distribution also $\pi$
+Define
 $$
-\lambda_{j} \geq \gamma_{j}^{(k)} \quad \forall j \in S
+Y_{n} := X_{N-n} \quad \forall 0\leq n \leq N
 $$
-If $X_{n}$ is recurrent then
+Then $Y(_{n})_{0\leq n \leq N}$ is a markov chain with initial distribution $\pi$, invariant distribution $\pi$ and transition probability
 $$
-\lambda_{j} = \gamma_{j}^{(k)}, \quad \forall j \in S
+Q(i,j) = \frac{\pi_{i}}{\pi_{j}} P(j,i) \quad \forall i,j \in S
+$$
+*english:* $Y_{0}=X_{N}$ so the first state in $Y$ is the *last* state in $X$. $Y$ is a sequence that goes *backwards* on the sequence $(X_n)$. 
+
+*pf:* book
+
+*defn* We call a markov chain *time reversible* if
+$$
+\underbrace{ Q(i,j) }_{ \text{transition of reversed} }  = \underbrace{ P(i,j) }_{ \text{transition of forward} } \quad \forall i,j \in S
+$$
+A function $(\lambda)_{i \in S}$ with transition probabilities $P(i,j)$ are *in detailed balance* if
+$$
+\lambda_{i}P(i,j) = \lambda_{j}P(j,i) \quad \forall i,j \in S
 $$
 
-*proposition 3*
-$X_{n}$ is a irreducible. The following are equivalent statements
-1. Every state is positive recurrent
-2. Some state is positive Recurrent
-3. $X_{n}$ has an invariant distribution call it $\pi_{i}$
-- each of these statements imply one another
-
-Moreover, when these hold, 
-$$
-\pi_{i} = \frac{1}{m_{i}} = \frac{1}{\mathbb{E}_{i}{T_{i}^+}}
-$$
-*pf:*
-- claim: $1. \implies 2.$ which is obvious (?)
-- claim $2. \implies 3.$ 
-	- $i$ is positive recurrent, $\implies i$ is recurrent $X_{n}$ is recurrent
-	by prop 1. $\gamma^{(i)}$ is an invariant function
+*interpretation:* if you start in an invariant distribution $\pi$, then
 $$
 \begin{align}
-\sum_{j \in S} \gamma_{j}^{(i)}  & = \sum_{j\in S} \mathbb{E}_{i} \sum_{n=0}^{T_{k}^+ -1} \mathbb{1}_{X_{n}=j} \\
- & = \mathbb{E}_{i} \sum_{j \in S} ^{T_{k}^+ -1} \underbrace{ \sum_{j\in S} \mathbb{1}_{X_{n}=j} }_{ =1 } \\
- & = \mathbb{E}_{i}T_{i}^+ = m_{i} < \infty
+\pi_{i} P(i,j)  & = \mathbb{P}(X_{n}=i)\mathbb{P}(X_{n+1}=j| X_{n}=i) \\
+ & =  \mathbb{P}(X_{n+1}=j, X_{n}=i)
 \end{align}
 $$
-thus
+what is the rate that i go from $i$ to $j$? 
 $$
-\pi_{j} = \frac{1}{m_{i}} \gamma_{j}^{(i)}
+\pi_{j}P(j,i) = \mathbb{P}(X_{n+1}=i, X_{n}=j)
 $$
+and, what is the rate that i go from $j$ to $i$? 
+
+a *detailed* balance means the likelihood of going either direction is the same
+
+*Proposition.* Let $(X_{n})$ be irreducible and positive recurrent, with transition probabilities $P(i,j)$. If $(x_{i})_{i \in S}$ and $P(i,j)$ are in detailed balance, $\sum x_{i}=1$ and $x_{i}\geq 0$, then $(x_{i})$ is an invariant distribution and $(X_{n})$ is reversible.
+
