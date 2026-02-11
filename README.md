@@ -1,2 +1,2 @@
 # qookd 
-![alt text](soldier.png)
+![alt text](cowboy.jpg)
